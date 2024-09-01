@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Jeep</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="e_jeepay_out">E-JeePay Out</string>
+    <string name="service">Service</string>
+    <string name="cash_in">CASH IN</string>
+
+
+</resources>
